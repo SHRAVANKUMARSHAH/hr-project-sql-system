@@ -1,4 +1,4 @@
-# XcelerateHR SQL System
+# HR SQL System
 
 ## 📌 Project Overview
 This project simulates a real-world HR backend system built using PostgreSQL.
@@ -37,5 +37,5 @@ Refer to the ER diagram below:
 ## 🔗 Tools Used
 - PostgreSQL
 - SQL
-- DBeaver / pgAdmin
+- pgAdmin
 
